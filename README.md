@@ -1,2 +1,2 @@
-# Python_Alistirmalari
- Python Alıştırmaları
+# Python Alistirmalari
+ Python' ı pekiştirmek adına belirli problemlerin çözümüdür.
